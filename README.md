@@ -1,2 +1,2 @@
-# palindrome-series-using-recursion-function.c
+# fabonacci-series-using-recursion-function.c
 c is used.
