@@ -1,2 +1,2 @@
-# fabonacci-series-using-recursion-function.c
+# factorial-series-using-recursion-function.c
 c is used.
